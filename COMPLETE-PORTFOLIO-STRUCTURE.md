@@ -41,7 +41,7 @@ Use this as a complete reference for your own portfolio!
     <p class="hero-greeting">Welcome to my portfolio</p>
     <h1 class="hero-name">Hi, I'm <span>Your Name</span></h1>
     <p class="hero-title">Lead <strong>Mobile & Full-Stack Engineer</strong></p>
-    <p class="hero-desc">10+ years of experience building innovative mobile apps, backend systems, and leading high-performing teams. Specialized in iOS, React Native, .NET Core, and AI-powered solutions.</p>
+    <p class="hero-desc">13+ years of experience building innovative mobile apps, backend systems, and leading high-performing teams. Specialized in iOS, React Native, .NET Core, and AI-powered solutions.</p>
     <div class="hero-btns">
       <a href="#contact" class="btn-primary">Get In Touch</a>
       <a href="#experience" class="btn-outline">View My Work</a>
